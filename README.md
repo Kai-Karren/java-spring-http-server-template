@@ -1,4 +1,4 @@
 # Java Spring Boot HTTP Server Template
 
-Template repo for a HTTP Server using Spring Boot 2.5
+An example and template repo for an HTTP Server using Spring Boot that I created for my personal use.
 
